@@ -20,14 +20,14 @@ Data is stored until the user deletes their account or requests removal.
 
 ### Your Rights
 Users can request account deletion or data removal by contacting  
-**stojan.rajkovic@example.com**.
+**stojan.rajkovic@icloud.com**.
 
 ### In-App Purchases
 Purchases are processed by Apple using StoreKit and are subject to Apple’s privacy policy.
 
 ### Contact
 For privacy-related questions, contact:  
-📧 **stojan.rajkovic@example.com**
+📧 **stojan.rajkovic@icloud.com**
 
 ---
 
